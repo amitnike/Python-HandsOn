@@ -6,13 +6,14 @@ def get_int(prompt):
     while True:
         try:
             x = int(input(prompt))
-            #better to return from here
-            #return x OR
+            #better to return from here using break..x will have value too
+            # OR
             #return int(input("what is x? "))...no return from else is needed
         except ValueError:
             # catch the exception but do nothing
             pass
-            #print("x is not an integer")
+            # print just to show that input is invalid.
+            # print("x is not an integer")
         else:
             #exit once input is valid or break
             return x

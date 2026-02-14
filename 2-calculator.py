@@ -11,8 +11,9 @@ y = float(input("what is y? "))
 
 
 #to nearest integer
-#print(z)
-#print(f"{z:,}")
+z = (x + y)
+print(z)
+print(f"{z:,}")
 
 
 #round to nearest digit at given position

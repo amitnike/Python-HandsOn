@@ -1,0 +1,5 @@
+[2026-04-19 16:57:03] [ERROR] InvalidNumberError — 'r' is not a valid number.
+[2026-04-19 16:57:18] [INFO] 5.0 / 3.1 = 1.6129032258064515
+[2026-04-19 16:57:31] [ERROR] InvalidOperationError — 'gfg' is not a supported operator.
+[2026-04-19 16:57:57] [ERROR] ZeroDivisionError — Division by zero is undefined.
+[2026-04-19 16:58:05] [INFO] 0.0 + 4.0 = 4.0

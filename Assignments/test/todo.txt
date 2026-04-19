@@ -1,0 +1,6 @@
+Fix the login bug reported by QA.
+Review pull request #47.
+Update the README with new setup steps.
+Write unit tests for the payment module.
+Deploy hotfix to production by 5pm.
+Check server logs for errors.

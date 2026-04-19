@@ -1,0 +1,7 @@
+January Sales Report
+Total units sold: 320
+Top product: Laptop
+Revenue: $45,000
+Returns: 5 units
+New customers: 18
+Repeat customers: 42

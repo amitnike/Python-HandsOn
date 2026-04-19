@@ -1,0 +1,7 @@
+Laptop - 50 units in stock
+Mouse - 200 units in stock
+Keyboard - 150 units in stock
+Monitor - 30 units in stock
+Webcam - 75 units in stock
+Headset - 60 units in stock
+Reorder Laptop stock when below 10 units.

@@ -1,0 +1,7 @@
+February Sales Report
+Total units sold: 275
+Top product: Monitor
+Revenue: $38,500
+Invoice #1042 sent to Acme Corp.
+Returns: 3 units
+New customers: 12
